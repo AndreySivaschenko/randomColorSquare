@@ -9,7 +9,7 @@
 <body>
 	<div class="wrapper">
 		<h2>Нажми на квадрат!</h2>
-		<div id="square">&nbsp;</div>
+		<div id="square"></div>
 	</div>
 
 </body>
