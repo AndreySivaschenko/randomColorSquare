@@ -1,0 +1,20 @@
+{
+  "repositories" : 
+  [
+    {
+      "type" : "package",
+      "package" : {
+        "name" : "AndreySivaschenko/randomColorSquare",
+        "version" : "1.0",
+        "source" : {
+          "type"    : "git",
+          "url" : "https://github.com/AndreySivaschenko/randomColorSquare.git",
+          "reference" : "master"
+        },
+        "autoload" : {
+          "files" : ["index.php"]
+        }
+      }
+    }
+  ]
+}
